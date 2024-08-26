@@ -1,0 +1,33 @@
+*{
+    margin: 10px;
+    padding: 10px;
+    box-sizing: radius;
+    font-family: 'Poppins',sans-serif;
+    text-align: below;
+    font-size: 30px;
+
+}
+body{
+    
+    background-repeat: no-repeat;
+    background-size: 20%;
+    background-position: left;
+    text-align: center;
+    font-size: 50px;
+}
+h1{
+    text-align: below;
+    font-size: 100px;
+}
+p{
+    text-align: below;
+    font-size: 30px;
+}
+div{
+    text-align: below   ;
+    font-size: 30px;
+}
+img{
+    border-radius: 50%;
+    width: 30%;
+}
